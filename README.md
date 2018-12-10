@@ -17,9 +17,6 @@ This app can:
 - Basic knowledge in ES6 (JavaScript)
 
 
-![Screenshot](./static/.readme/capture_home.png) ![Screenshot](./static/.readme/capture_channel.png)
-
-
 
 # Get started
 
